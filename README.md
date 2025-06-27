@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Damon 👋
 
-<!--
-**DamonKert/DamonKert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Engineer with a strong focus on building scalable, high-performance web applications. My main stack includes:
 
-Here are some ideas to get you started:
+- **Node.js & TypeScript**: Backend APIs, services, and microservices
+- **React.js & TypeScript**: Modern, interactive frontend interfaces
+- **MongoDB**: Flexible, performant database solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 What I do
+- Design and implement end-to-end solutions for web platforms
+- Collaborate on open source and team projects
+- Learn and apply new technologies to solve real-world problems
+
+## 🛠️ Technologies & Tools
+- Node.js / Node TS
+- React.js / React TS
+- MongoDB
+- REST APIs & GraphQL
+- Git & GitHub
+
+## 📫 How to reach me
+- [GitHub](https://github.com/DamonKert)
+
+---
+
+*Let’s connect and build something amazing!*
